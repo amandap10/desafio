@@ -143,3 +143,38 @@ h2 {
   height: 167px;
 
 }
+
+.texts-info{
+  height: 1250px;
+}
+.texts {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  top: 1300px;
+  left: 100px;
+  width: 300px;
+  height: 450px;
+}
+.texts-one {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 300px;
+  left: 540px;
+  top: 1302px;
+  height: 470px;
+}
+
+.texts-two {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 300px;
+  left: 960px;
+  top: 1302px;
+  height: 450px;
+}
